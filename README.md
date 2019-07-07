@@ -1,2 +1,1 @@
-# imgtab
-轮播小插件（改）
+jquery  PC  图片轮播切换
